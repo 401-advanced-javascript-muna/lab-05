@@ -8,8 +8,8 @@
 
 ### Links and Resources
 
-- [submission PR]()
-- [ci/cd]() (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-muna/lab-05/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-muna/lab-05/actions) (GitHub Actions)
 
 
 
