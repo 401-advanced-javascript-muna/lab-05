@@ -1,7 +1,7 @@
 {
   "name": "lab-05",
   "version": "1.0.0",
-  "description": "",
+  "description": "# LAB - Class 05",
   "main": "index.js",
   "dependencies": {
     "@code-fellows/supergoose": "^1.0.1",
